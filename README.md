@@ -1,4 +1,4 @@
-# eviltwin-crackcp# Evil Twin Change Email To Reset Password Cpanel
+# Evil Twin Change Email To Reset Password Cpanel
 
 - **Coder Sec666 A.K.A ZSec**
 - **Encrypter Eval ID A.K.A Fadly31337**
@@ -9,7 +9,7 @@
  <img width="50%" src="images/20200426_132127.jpg"/>
  </p><br>
  
- - download on
+ - download on https://raw.githubusercontent.com/eviltwin-dev/eviltwin-crackcp/master/etc.php
  - upload om your website target
  - paste your email in table <br>
  - click *change* to run<br>
