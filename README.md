@@ -10,7 +10,7 @@
  </p><br>
  
  - download on https://raw.githubusercontent.com/eviltwin-dev/eviltwin-crackcp/master/etc.php
- - upload om your website target
+ - upload on your website target
  - paste your email in table <br>
  - click *change* to run<br>
  - check , if success will show username and site login to cpanel
